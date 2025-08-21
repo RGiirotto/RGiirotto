@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi there!<br>My name is Raffael, I’m 24 years old and part of the QA team at Tractian, where I started my journey in November 2024.<br><br>🧪 I work with both manual testing (scenario documentation, bug reporting, and validations) and test automation for Web (Cypress) and Mobile (Maestro).<br><br>🚀 My focus is on ensuring continuous quality and delivering reliable, high-value software.</p>
+<p align="left">👋 Hi there!<br>My name is Raffael, I’m 24 years old and part of the QA team at Tractian, where I started my journey in November 2024.<br><br>🧪 I work with both manual testing (scenario documentation, bug reporting, and validations) and test automation for Desktop (Cypress) and Mobile (Maestro).<br><br>🚀 My focus is on ensuring continuous quality and delivering reliable, high-value software.</p>
 
 ###
 
